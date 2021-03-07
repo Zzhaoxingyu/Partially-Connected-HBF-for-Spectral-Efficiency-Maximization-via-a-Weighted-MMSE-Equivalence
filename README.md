@@ -10,7 +10,7 @@ The code of the SDR-based algorithm in this paper can refer to link https://gith
 
 # How to use
 1. You first need to run Fixed_channel.m in folder named Channel_data to generate random channels, the default setting is 100 times
-2. Then, you should totally add all packages to the path, so you can use these functions. Then, just run the main_snr.m file directly.
+2. You should totally add all packages to the path, so you can use these functions. Then, just run the main_snr.m file directly.
 
 # Content
 This codes including several algorithms mentioned in my paper, all can easily cited by these convenient APIs.
