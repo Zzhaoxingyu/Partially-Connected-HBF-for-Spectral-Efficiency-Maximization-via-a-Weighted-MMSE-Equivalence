@@ -59,7 +59,7 @@ MMSE_EI_rate = zeros(realization,length(snr));
 WMMSE_MO_rate = zeros(realization,length(snr));
 WMMSE_EI_rate = zeros(realization,length(snr));
 
-
+% Yuwei stands for the algorithm in "Hybrid Analog and Digital Beamforming for mmWave OFDM Large-Scale Antenna Arrays"
 
 parfor reali = 1:realization
     for i = 1:smax
