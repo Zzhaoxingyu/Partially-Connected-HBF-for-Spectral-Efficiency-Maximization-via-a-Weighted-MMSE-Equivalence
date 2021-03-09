@@ -6,7 +6,7 @@ function rate = WMMSE_MO_wbmethod(Nt,Nr,Nt_rf,Nr_rf,Vn,Ns,H,Nk,frf_ini,wrf_ini,f
 % Contact：xingyuzhao19@fudan.edu.cn
 % Creation Date：7/1/2019
 % Last Modification Date：8/9/2020
-% Paper:Hybrid Beamforming for Millimeter Wave Systems with the Partially-Connected Architecture Using the Weighted MMSE Criterion
+% Paper:Partially-Connected Hybrid Beamforming for Spectral Efficiency Maximization via a Weighted MMSE Equivalence
 % =========================================================
 
 N= Nr/Nr_rf;
