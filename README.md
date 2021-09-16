@@ -2,7 +2,7 @@
 Partially-Connected Hybrid Beamforming for Spectral Efficiency Maximization via a Weighted MMSE Equivalence
 
 
-The Matlab Simulation codes for Partially-Connected Hybrid Beamforming for Spectral Efficiency Maximization via a Weighted MMSE Equivalence. Please refer to link https://ieeexplore.ieee.org/document/9467491 in IEEE Transactions on Wireless Communications (Early Access, DOI: 10.1109/TWC.2021.3091524). If these codes is help for your work, you can choose to cite the paper, but is not necessary.
+The Matlab Simulation codes for Partially-Connected Hybrid Beamforming for Spectral Efficiency Maximization via a Weighted MMSE Equivalence. Please refer to link https://ieeexplore.ieee.org/document/9467491 in IEEE Transactions on Wireless Communications ( Early Access, DOI: 10.1109/TWC.2021.3091524 ). If these codes is help for your work, you can choose to cite the paper, but is not necessary.
 
 
 The code of the SDR-based algorithm in this paper can refer to link https://github.com/yuxianghao/Alternating-minimization-algorithms-for-hybrid-precoding-in-millimeter-wave-MIMO-systems
